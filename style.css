@@ -1,0 +1,117 @@
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parent-old{
+    background-image: url("assets/Hero-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-bottom: 40px;
+    
+}
+
+.parent-oldd{
+    
+    height: 500px;
+    margin-bottom: 40px;
+    
+}
+
+    
+
+
+.card1{
+    width: 40%;
+    text-align: center;
+}
+
+
+main{
+    background-color: aqua;
+}
+
+
+
+.cl{
+    color: #757575;
+}
+
+.btn{
+border-radius: 6px;
+background: rgb(13, 19, 33);
+color: white;
+padding: 21px 24px 21px 24px;
+}
+
+
+
+
+
+
+
+
+.cl{
+ text-align: center;
+ 
+}
+
+.container{
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(210, 206, 206);
+    overflow:hidden;
+}
+
+
+.ch1{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.ch2{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    height: 230px;
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    margin-bottom: 15px;
+   
+    
+}
+
+.c3{
+    width: 50%;
+}
+
+.title{
+ font-size: 20px;
+}
+
+.des{
+ font-size: 13px;
+ color: rgb(102, 101, 101);
+}
+
+.btn3{
+    padding: 10px;
+    border-radius: 10%;
+}
