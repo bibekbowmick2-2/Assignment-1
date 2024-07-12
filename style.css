@@ -20,6 +20,8 @@ img{
 .parent-old{
     background-image: url("assets/Hero-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     height: 500px;
     margin-bottom: 40px;
     
@@ -56,6 +58,15 @@ border-radius: 6px;
 background: rgb(13, 19, 33);
 color: white;
 padding: 21px 24px 21px 24px;
+cursor: pointer;
+
+
+}
+
+
+.btn a {
+    text-decoration: none; 
+    color: white; 
 }
 
 
@@ -72,9 +83,9 @@ padding: 21px 24px 21px 24px;
 
 .container{
     height: 100%;
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
-    background-color: rgb(210, 206, 206);
+    background-color: rgb(246, 243, 243);
     overflow:hidden;
 }
 
@@ -166,4 +177,55 @@ padding: 20px;
 .t6{
     text-decoration: underline;
 }
+
+
+.container2{
+  
+  height: 300px;
+  width: 1040px;
+  background-image: url("assets/handshake.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+
+input[type="text"] {
+    width: 430px; 
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.btn65
+
+{
+    background-color: white;
+    padding: 12px;
+    width: 100px;
+    border-radius: 8px;
+    font-weight: bold;
+    border: none;
+}
+
+
+.chh65{
+    text-align: center;
+}
+
+.c67{
+    color: #ccc;
+}
+
+.cli{
+    margin: 0 auto;
+}
+
   
